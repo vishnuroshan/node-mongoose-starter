@@ -1,4 +1,4 @@
-# node-mongoose-app
+# node mongoose starter
 
 Node.js, Express.js and Mongoose
 
